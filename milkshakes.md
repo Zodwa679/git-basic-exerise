@@ -1,2 +1,3 @@
 Vanilla milkshake
 Strawberry milkshake
+Chocolate
